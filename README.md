@@ -3,5 +3,7 @@ Game was made with unity using C#.
 
 ## Screenshots
 
-![Gameplay](Screenshots/gameplay.png)
+![Gameplay](Images/Menu.png)
+![Gameplay](Images/PlayerSelect.png)
+![Gameplay](Images/Game.png)
 
