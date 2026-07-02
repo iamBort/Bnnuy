@@ -1,0 +1,8 @@
+1. napsat kód pro hýbání zbraně	DONE
+2. primitivní menu se startem a quit DONE
+3. mrknout se na coyote time (ZATÍM NENÍ POTŘEBA)
+4. kutálení (prozatím hotové; dobré v pozdější době je prozkoumat jestli stačí)
+5. generic ovládání
+6. životy
+7. základní enemy
+8. checkpointy

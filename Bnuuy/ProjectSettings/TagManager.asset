@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ObjectObstacle
+  - HR
+  - VR
+  - Ground
+  - Ground
+  - Enemy
+  - Invisible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - FindPlayerTrig
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Layer 3
+    uniqueID: 609932107
+    locked: 0
+  - name: Layer 2
+    uniqueID: 671843425
+    locked: 0
+  - name: Layer 1
+    uniqueID: 3191117557
+    locked: 0
+  - name: Top
+    uniqueID: 794257285
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
